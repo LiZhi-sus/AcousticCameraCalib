@@ -21,4 +21,5 @@ run('Simulation_C.m')
 run('Experiment_B.m')
 run('Experiment_C.m')
 
-You can get the calibration result after 
+You can get the calibration result after run 'plot_B' and 'plot_E':
+
