@@ -10,8 +10,8 @@ This is an open-source project aimed at calibrating the extrinsic parameters of 
   - **Proposed closed-form linear solver**
   - **Random initialization** (L = 0.1m, 0.5m, 1.0m, 2.0m)
 - Output:
-  - `Error_Contribution_Sim_A_*.mat`: RMSE on x/y/z/total
-  - `Error_Mean_Sim_A_*.mat`: Averaged RMSE results
+  - `Error_Contribution_Sim_*_*.mat`: RMSE on x/y/z/total
+  - `Error_Mean_Sim_*_*.mat`: Averaged RMSE results
 
 ---
 
