@@ -1,13 +1,16 @@
 # Enhanced Extrinsic Calibration of Acoustic Cameras Using Closed-Form Initialization and Batch Optimization
-This is an open-source project aimed at calibrating the extrinsic parameters of an acoustic camera system. The repository contains scripts, functions, and data to estimate, validate, and visualize calibration results for acoustic cameras in both simulation and real-world experiments.
+This repository contains the official implementation of our paper:
+"Enhanced Extrinsic Calibration of Acoustic Cameras Using Closed-Form Initialization and Batch Optimization".
+It provides scripts, functions, and data to estimate, validate, and visualize calibration results of acoustic camera systems in both simulation and real-world experiments.
+
 
 ---
 
 ## 📁 Data Folder Details
 
 The `data/` folder contains:
-- **Raw measurement data** used in the experiments.
-- **Saved `.mat` result files** from the experiments, used for plotting and analysis.
+- **Raw measurement data**, named ‘my_measurement’, including TDOA measurements and corresponding calibration board images used in the experiments.
+- **Saved `.mat` result files** from the experiments, used for plotting and analysis. The names correspond to the sections in the article, such as 'Sim_A'.
 
 ---
 
