@@ -26,4 +26,4 @@ run('Experiment_C.m')
 ```
 Then you will get the results corresponding to each subsection of the paper.
 
-The generated .mat result files are saved in the root directory or data/, and can be used for plotting and reporting. Figures can be reproduced using the provided scripts `plot_Sim_A.m`, `plot_Exp_B.m`, etc.
+The generated .mat result files are saved in the **root directory** or `data/`, and can be used for plotting and reporting. Figures can be reproduced using the provided scripts `plot_Sim_A.m`, `plot_Exp_B.m`, etc.
