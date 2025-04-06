@@ -24,4 +24,4 @@ run('Simulation_C.m')
 run('Experiment_B.m')
 run('Experiment_C.m')
 ```
-
+Then you will get the results corresponding to each subsection of the paper.
