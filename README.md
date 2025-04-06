@@ -7,3 +7,17 @@ The `data/` folder contains:
 - **Saved `.mat` result files** from the experiments, used for plotting and analysis.
 - **Exp_C/** folder includes pre-computed error metrics for additional comparisons:
   - `Error_snsr.mat`, `Error_add.mat`, `Error_multi.mat`, `Error_sig.mat`
+
+## 🚀 Usage
+
+Make sure you have all dependencies in your MATLAB path (`func/` in particular), then run:
+
+```matlab
+% Run synthetic simulation
+run('Simulation_A.m')
+
+% Run fixed real-data experiment
+run('Experiment_B.m')
+
+% Run benchmark across dataset scales
+run('Experiment_C.m')
