@@ -16,7 +16,7 @@ The `data/` folder contains:
 Make sure you have all dependencies in your MATLAB path (`func/` in particular), then run:
 
 ```matlab
-% Run synthetic simulation
+% Run synthetic simulation using the sound source locations in `location.mat`:
 run('Simulation_A.m')
 run('Simulation_B.m')
 run('Simulation_C.m')
