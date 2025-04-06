@@ -3,8 +3,8 @@ This is an open-source project aimed at calibrating the extrinsic parameters of 
 # data
 The data/ folder includes:
 
-  Measurement files used in calibration experiments.
+## Measurement files used in calibration experiments.
 
-  Subdirectories are organized by experiment type (e.g., my_measurement_3/ for Experiment_B).
+## Subdirectories are organized by experiment type (e.g., my_measurement_3/ for Experiment_B).
 
-  Saved .mat results are used for performance analysis and plotting.
+## Saved .mat results are used for performance analysis and plotting.
