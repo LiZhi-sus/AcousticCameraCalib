@@ -15,9 +15,8 @@ Make sure you have all dependencies in your MATLAB path (`func/` in particular),
 ```matlab
 % Run synthetic simulation
 run('Simulation_A.m')
-
+run('Simulation_B.m')
+run('Simulation_C.m')
 % Run fixed real-data experiment
 run('Experiment_B.m')
-
-% Run benchmark across dataset scales
 run('Experiment_C.m')
